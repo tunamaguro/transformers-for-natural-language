@@ -1,0 +1,27 @@
+# visualizers
+matplotlib
+seaborn
+tensorboard
+
+# pytorch
+torch
+# torchvision
+# torchaudio
+torchinfo
+pytorch-lightning
+  
+
+# jupyterlab
+jupyterlab
+ipywidgets
+
+# utilities
+pandas
+numpy
+polars
+scipy
+
+# formatter
+black
+flake8
+isort
