@@ -12,6 +12,7 @@ pytorch-lightning
 
 # hugging face
 transformers
+accelerate
 
 # tensorflow
 tensorflow
