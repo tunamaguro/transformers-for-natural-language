@@ -9,6 +9,12 @@ torch
 # torchaudio
 torchinfo
 pytorch-lightning
+
+# hugging face
+transformers
+
+# tensorflow
+tensorflow
   
 
 # jupyterlab
