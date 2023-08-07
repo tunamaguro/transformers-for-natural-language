@@ -1,4 +1,4 @@
-FROM  nvcr.io/nvidia/cuda:12.2.0-runtime-ubuntu22.04
+FROM  nvcr.io/nvidia/tensorflow:23.07-tf2-py3
 
 ENV TZ=Asia/Tokyo
 ENV DEBIAN_FRONTEND=noninteractive=value
